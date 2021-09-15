@@ -31,3 +31,8 @@ done
 ```
 Con este sencillo bloque de codigo en bash es que logramos obtener los
 puertos abiertos de un host.
+
+## Ahora a practicar un poco con los enlaces.
+
+[Aqui va un Enlace](https://gist.githubusercontent.com/Villanuevand/6386899f70346d4580c723232524d35a/raw/2257b97cb7bd8de0906fa8fcde3a92f8dcb984e0/README-espa%25C3%25B1ol.md) _Que va directamente al repositorio de alguien que tiene muestras
+de como usar el lenguaje de marcado o marcas._
