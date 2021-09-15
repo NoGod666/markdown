@@ -87,4 +87,15 @@ de como usar el lenguaje de marcado o marcas._
 
 ### My great Heading {#custom-id}
 
+<<<<<<< HEAD
 _Y bueno fuchachos aqui termina este **tutorial**_
+=======
+_Y bueno fuchachos aqui termina este tutorial
+
+## Usando pies de pagina
+Aqui hay una oracion con un pie de pagina.
+[^1]
+
+[^1]: Esta es pie de pagina o texto al final de una nota.
+
+>>>>>>> translate
